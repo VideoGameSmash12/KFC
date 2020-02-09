@@ -1,2 +1,2 @@
 # KFC
-Seth did what with the code?
+Seth did what with code?
